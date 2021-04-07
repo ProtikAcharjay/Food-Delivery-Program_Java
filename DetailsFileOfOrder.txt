@@ -1,0 +1,12 @@
+~~~~~~~~~~~~~~~~~~~~~~~~~
+Order Details
+Shimanto Obokash Resturant
+Coffee - 60tk
+Frencn Fries - 80tk
+Drinks - 25tk
+Total Amount : 165
+Name : Protik Acharjay
+Adress : Rajshahi
+Phone No : 01798141488
+Customer will pay Cash on delivery 
+~~~~~~~~~~~~~~~~~~~~~~~~~
